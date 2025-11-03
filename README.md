@@ -27,7 +27,8 @@ Validate the HTML code.
 ### Step 7:
 Publish the website in the given URL.
 
-## PROGRAM:
+## PROGRAM: 
+```
 index.html
 
 <!DOCTYPE html>
@@ -412,6 +413,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (63).png>)
